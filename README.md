@@ -1,6 +1,6 @@
 <a href="https://kolesovasonya.github.io/Delote-Beauty/">МНОГОСТРАНИЧНЫЙ САЙТ САЛОНА КРАСОТЫ Delote Beauty</a>
 
-* HTML, SASS(SCSS), JS(jQuery). Сборщик: Prepros. Редактор кода: Sublime Text 3
+* HTML, SASS(SCSS), Kit, JS(jQuery). Сборщик: Prepros. Редактор кода: Sublime Text 3
 * FlexBox, CSS Grid Layout, методология БЭМ
 * Адаптив до 320px
 * Анимированная плавная навигация до блока (JS), hover/focus
